@@ -2,7 +2,7 @@
 name: 機能の追加 / Feature request
 about: このサーバーのアイデアを提案する / Suggest an idea for this server
 title: ''
-labels: ''
+labels: 提案
 assignees: ''
 
 ---
